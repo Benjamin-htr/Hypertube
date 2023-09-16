@@ -1,6 +1,7 @@
 # Builded files
 dist
 build
+styled-system
 
 # Dependency directories
 node_modules/
