@@ -1,5 +1,5 @@
 {
-  "name": "api_hypertube",
+  "name": "@my-monorepo/api_hypertube",
   "version": "1.0.0",
   "private": true,
   "scripts": {

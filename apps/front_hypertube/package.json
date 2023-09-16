@@ -1,5 +1,5 @@
 {
-  "name": "front_hypertube",
+  "name": "@my-monorepo/front_hypertube",
   "private": true,
   "version": "0.0.0",
   "type": "module",
